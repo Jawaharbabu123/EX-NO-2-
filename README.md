@@ -82,6 +82,7 @@ int main()
 ~~~
 ## OUTPUT:
 
+<img width="1917" height="1198" alt="Screenshot 2025-08-22 143845" src="https://github.com/user-attachments/assets/c7ba538c-889a-4ab5-a8d2-2239f1091ab4" />
 
 
 ## RESULT:
