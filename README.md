@@ -1,7 +1,7 @@
 ## EX. NO:2 IMPLEMENTATION OF PLAYFAIR CIPHER
 
-## NAME : KAVIBHARATHI K
-## REG NO : 212224220045
+## NAME : JAWAHAR BABU S
+## REG NO : 212224220041
 
  
 
@@ -82,7 +82,7 @@ int main()
 ~~~
 ## OUTPUT:
 
-<img width="1143" height="1006" alt="Screenshot 2025-08-22 142525" src="https://github.com/user-attachments/assets/41a07109-3668-49aa-bbc9-82acf73b1db8" />
+
 
 ## RESULT:
 The program was executed successfully.
