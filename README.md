@@ -1,13 +1,4 @@
-## EX. NO:2 IMPLEMENTATION OF PLAYFAIR CIPHER
-
-## NAME : JAWAHAR BABU S
-## REG NO : 212224220041
-
- 
-
-## AIM:
- 
-To write a C program to implement the Playfair Substitution technique.
+## the Playfair Substitution technique.
 
 ## DESCRIPTION:
 
@@ -34,8 +25,8 @@ STEP-5: Display the obtained cipher text.
 
 
 
-## PROGRAM:
-~~~
+Program:
+```
 #include<stdio.h>
 #include<string.h>
 int main()
@@ -79,11 +70,18 @@ int main()
     printf(" %c",c[i]+65);
     return 0;
 }
-~~~
-## OUTPUT:
 
-<img width="1917" height="1198" alt="Screenshot 2025-08-22 143845" src="https://github.com/user-attachments/assets/c7ba538c-889a-4ab5-a8d2-2239f1091ab4" />
+        
+```
+
+
+
+Output:
+
+<img width="478" height="299" alt="image" src="https://github.com/user-attachments/assets/c0915dd2-4c41-46ae-8364-40476bd223c8" />
+
 
 
 ## RESULT:
-The program was executed successfully.
+
+ Program has been executed successfully 
